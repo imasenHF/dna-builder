@@ -1,5 +1,5 @@
-# DNA Builder v1.0 historical source. Public contact updated for plastocyanin.org.
-# Geometry and coordinate templates are preserved from the 2023 release.
+# DNA Builder v1.0 — generate ssDNA/dsDNA XYZ coordinates from fixed geometry templates.
+# Author: hyphoon <wuhaifeng@ustc.edu.cn>
 import numpy as np
 from scipy.spatial.transform import Rotation
 import os
