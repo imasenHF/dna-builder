@@ -61,4 +61,4 @@ ACGT_dsDNA.xyz
 
 ## License
 
-当前未设置开源许可。
+[MIT License](LICENSE).
